@@ -1,0 +1,7 @@
+#hello
+.classpath
+.mymetadata
+.project
+.settings/*
+src/main/webapp/WEB-INF/classes/*
+target/*
